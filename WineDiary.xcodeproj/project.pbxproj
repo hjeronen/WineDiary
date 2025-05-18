@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		2D4388D72DDA429300D9F334 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2D4388D32DDA429300D9F334 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		2D39E1EA2DA15D6100B83A1B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		2D39E1D52DA15D5E00B83A1B /* WineDiary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WineDiary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D39E1E92DA15D6100B83A1B /* WineDiaryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WineDiaryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D39E1F32DA15D6100B83A1B /* WineDiaryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WineDiaryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D4388D32DDA429300D9F334 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -92,6 +97,7 @@
 				2D39E1EC2DA15D6100B83A1B /* WineDiaryTests */,
 				2D39E1F62DA15D6100B83A1B /* WineDiaryUITests */,
 				2D39E1D62DA15D5E00B83A1B /* Products */,
+				2D4388D32DDA429300D9F334 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -225,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D4388D72DDA429300D9F334 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
